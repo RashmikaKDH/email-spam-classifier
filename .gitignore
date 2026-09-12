@@ -3,6 +3,9 @@ venv/
 env/
 .env
 
+# Data Files
+*.csv
+
 # Python Cache
 __pycache__/
 *.pyc
